@@ -1,0 +1,5 @@
+decorator==5.1.1
+pypiwin32==223
+pyuac==0.0.3
+pywin32==305
+tee==0.0.3

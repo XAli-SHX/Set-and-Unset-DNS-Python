@@ -1,3 +1,3 @@
-import subprocess
+import core
 
-subprocess.run(["python3", "core.py"])
+core.unset_dns()

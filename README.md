@@ -76,7 +76,7 @@ or
 pip3 install -r ./requirements.txt
 ```
 
-Now you can use it. 
+Now you can use it.
 
 Enjoy :)
 
@@ -84,3 +84,5 @@ Enjoy :)
 
 - If this script is not working for you try to run the terminal as administrator or super-user and then run python file
   in terminal.
+- If the terminal windows pop-ups and it takes relatively a lot of time, don't close it and let it finishes its job.
+  The pop-ups should be closed automatically

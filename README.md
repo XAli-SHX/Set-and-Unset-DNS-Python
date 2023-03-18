@@ -38,6 +38,8 @@ py <x_dns.py>
 
 Try which one works for you.
 
+You can make your own custom DNS. Just copy the file and change the primary and secondary ip in the file.
+
 ### Fundamental Way
 
 Run this command in the directory that `core.py` file exists:
